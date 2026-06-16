@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 🌍📊
+# ¡Hola! Soy Roberto De Paz 🌍📊
 
 Soy **Ingeniero Geofísico y Analista de Datos**, con un profundo interés en el **sector energético y de recursos naturales**. Mi experiencia se centra en el ciclo completo del dato técnico: desde la coordinación de la adquisición en campo y la implementación de controles de calidad rigurosos, hasta el procesamiento y análisis de datasets complejos.
 
