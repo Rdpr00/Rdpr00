@@ -24,14 +24,15 @@ Me especializo en traducir datos crudos y variables geoespaciales en **recomenda
 
 ---
 
-## 🚀 Proyectos Destacados e Impacto
+## 🚀 Proyectos Destacados
 
-* **[Portafolio Completo de Proyectos en Notion](AQUÍ_VA_EL_LINK_DE_TU_NOTION)**: Un desglose detallado de mis casos de estudio, metodologías aplicadas y los resultados prácticos obtenidos orientados a la toma de decisiones.
-* *(Opcional: Enlaza aquí algún repositorio clave que tengas en tu cuenta, por ejemplo: [Análisis de Datos con Python - Caso de Estudio](enlace_al_repo))*
+* 📊 **[Análisis de Comportamiento de Compra - Instacart](enlace_al_repositorio)**: Limpieza de datos y análisis exploratorio (EDA) para identificar patrones de consumo, hábitos de reorden de productos y segmentación temporal de usuarios.
+* 📞 **[Optimización de Planes de Telecomunicaciones - Megaline](enlace_al_repositorio)**: Análisis estadístico de consumo de usuarios y prueba de hipótesis para evaluar el comportamiento de los clientes y determinar la viabilidad de diferentes planes comerciales.
+* 🎮 **[Análisis de Tendencias del Mercado de Videojuegos](enlace_al_repositorio)**: Identificación de patrones de éxito comercial, análisis de plataformas generacionales y evaluación de perfiles de consumidores por regiones geográficas para la planificación de campañas.
 
 ---
 
 ## 📩 Conectemos
 
-* **LinkedIn**: [tu-perfil-de-linkedin](AQUÍ_VA_EL_LINK_DE_TU_LINKEDIN)
-* **Email**: tu.correo@email.com
+* **LinkedIn**: [tu-perfil-de-linkedin](www.linkedin.com/in/rdepazr)
+* **Email**: roberto99.dpr@gmail.com
