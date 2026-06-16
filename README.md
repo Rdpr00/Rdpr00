@@ -26,7 +26,7 @@ Me especializo en traducir datos crudos y variables geoespaciales en **recomenda
 
 ## 🚀 Proyectos Destacados
 
-* 📊 **[Análisis de Comportamiento de Compra - Instacart](enlace_al_repositorio)**: Limpieza de datos y análisis exploratorio (EDA) para identificar patrones de consumo, hábitos de reorden de productos y segmentación temporal de usuarios.
+* 📊 **[Análisis de Comportamiento de Compra - Instacart](https://github.com/Rdpr00/Analisis-de-comportamiendo-de-ventas-caso-Instacart.git)**: Limpieza de datos y análisis exploratorio (EDA) para identificar patrones de consumo, hábitos de reorden de productos y segmentación temporal de usuarios.
 * 📞 **[Optimización de Planes de Telecomunicaciones - Megaline](enlace_al_repositorio)**: Análisis estadístico de consumo de usuarios y prueba de hipótesis para evaluar el comportamiento de los clientes y determinar la viabilidad de diferentes planes comerciales.
 * 🎮 **[Análisis de Tendencias del Mercado de Videojuegos](enlace_al_repositorio)**: Identificación de patrones de éxito comercial, análisis de plataformas generacionales y evaluación de perfiles de consumidores por regiones geográficas para la planificación de campañas.
 
