@@ -34,5 +34,5 @@ Me especializo en traducir datos crudos y variables geoespaciales en **recomenda
 
 ## 📩 Conectemos
 
-* **LinkedIn**: [tu-perfil-de-linkedin](www.linkedin.com/in/rdepazr)
+* **LinkedIn**: [Roberto De Paz](www.linkedin.com/in/rdepazr)
 * **Email**: roberto99.dpr@gmail.com
